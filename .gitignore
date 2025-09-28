@@ -69,3 +69,8 @@ logs
 # Temporary files
 tmp/
 temp/
+
+# Electron build files
+dist/
+node_modules/
+*.log
